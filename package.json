@@ -1,0 +1,13 @@
+{
+  "name":"stream2canvas",
+  "version":"0.0.1",
+  "author":"mofo deluxe",
+  "scripts": {
+    "start": "./start.sh"
+  },
+  "dependencies": {
+    "vlc": "*",
+    "socket.io": "*",
+    "coffee-script":"*"
+  }
+}
