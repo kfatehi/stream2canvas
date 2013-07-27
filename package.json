@@ -1,9 +1,12 @@
 {
   "name":"stream2canvas",
   "version":"0.0.1",
-  "author":"mofo deluxe",
+  "contributors":[
+    "Jeanre Swanepoel",
+    "Keyvan Fatehi"
+  ],
   "scripts": {
-    "start": "./start.sh"
+    "start": "node_modules/coffee-script/bin/coffee start.coffee"
   },
   "dependencies": {
     "vlc": "*",
