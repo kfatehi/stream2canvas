@@ -1,8 +1,7 @@
 ## stream2canvas
 
-###
-	libs:
-		* [node_canvas](https://github.com/learnboost/node-canvas)
+### Libs
+* [node_canvas](https://github.com/learnboost/node-canvas)
 
 
 ### Architecture
